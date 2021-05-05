@@ -1,0 +1,20 @@
+  .Card {
+  width: 80%;height: 300px;
+  min-height: 300px;
+  max-height: 300px;
+  border-radius: 16px;
+  border: 2px solid #fff;
+  box-shadow: 3px 3px 7px rgba(33, 33, 33, 0.67);
+  margin: 0% auto;
+    display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  color: #333;
+}
+  
+  .Pic1 {
+    background: url("../images/bkg2.svg");
+    background-size: cover;
+    background-position: center;
+    
+  }

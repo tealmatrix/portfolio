@@ -1,0 +1,17 @@
+.Navigation {
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  background: #fff;
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: "Salsa", cursive;
+}
+.Navigation > a {
+  text-decoration: none;
+  color: #c4da49;
+  margin: 20px;
+}
+.Navigation > a:hover {
+  color: #14454c;
+}

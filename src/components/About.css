@@ -1,0 +1,9 @@
+.About {
+    height: 500px;
+    text-align: center;
+    background-color: rgba(161, 164, 138, 0.33);
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: "Salsa", cursive;
+    color: #73877b;
+}
