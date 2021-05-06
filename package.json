@@ -24,7 +24,7 @@
 =======
     
 >>>>>>> ba4d535b05b0c313f95e8d3e157c598b42e6349c
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
